@@ -1,3 +1,5 @@
+#수정 확인을 하여 봅시다
+
 from serial import *
 import time
 import keyboard
